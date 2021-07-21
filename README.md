@@ -29,10 +29,10 @@ Install the following before execution
 ## Source code
 
 ```python
-import pyttsx3  # pip install pyttsx3
-import speech_recognition as sr  # pip install speechRecognition
+import pyttsx3 
+import speech_recognition as sr  
 import datetime
-import wikipedia  # pip install wikipedia
+import wikipedia  
 import webbrowser
 import os
 import smtplib
