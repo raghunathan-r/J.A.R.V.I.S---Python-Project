@@ -16,7 +16,16 @@ This is a project we made as a part of the Python course we had taken this semes
 - [@Raghunathan R](https://github.com/raghunathan-r)
 - [@Sohan M](https://www.linkedin.com/in/sohan-m-5aaa891ab/)
 
-  
+## Installation
+
+Install the following before execution
+
+```bash
+  pip install pyttsx3
+  pip install speechRecognition
+  pip install wikipedia
+```
+
 ## Source code
 
 ```python
